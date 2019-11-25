@@ -7,4 +7,4 @@
 
 The Unity project requires Unity TensorFlow Plugin to work. Since it is too big, I didn't upload it.
 
-The documentation that contains download link: [Using-TensorFlow-Sharp-in-Unity](https://github.com/SSSxCCC/AlphaZero-In-Unity/blob/master/Unity%20Project/Using-TensorFlow-Sharp-in-Unity)
+The documentation that contains download link: [Using-TensorFlow-Sharp-in-Unity](https://github.com/SSSxCCC/AlphaZero-In-Unity/blob/master/Unity%20Project/Using-TensorFlow-Sharp-in-Unity.md)
